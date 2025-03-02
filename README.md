@@ -10,7 +10,9 @@
 </p>
 
 
-<p><strong>Note:</strong> This is an actively maintained fork of the original Semaphorin project.</p>
+## Discontinued
+
+This fork has been discontinued and archived, I will be working on a more functional and easy-to-use downgrade tool in the future.
 
 ## Compatibility Matrix
 
